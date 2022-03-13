@@ -5,6 +5,14 @@ _IT engineer_ <br>
 [Email](mailto:crownless_empire@icloud.com) / [Mobile](tel:0031623724973) / [LinkedIn](https://www.linkedin.com/in/sebastians-url/) / [Azure DevOps](https://dev.azure.com/sebastian-simon/) 
 <br>
 
+## **Skills**
+
+**Programming**: Python, Django, R, Ansible, Hive, SQL, HTML, Kafka, Java, oTree, Markdown, LaTeX <br><br>
+**Tooling**: Azure, Databricks, Hadoop, Linux (Debian), Airflow, SonarQube, Fortify, Ambari, Zeppelin, Git, GitHub, Heroku Postgres, Docker, Kafka, SPSS, STATA <br><br>
+**Certificates**: Azure Fundamentals (AZ-900), Azure Developing Solutions (AZ-204), Information Technology Infrastructure Library (ITIL 4) <br><br>
+**Languages**: German(native), English (fluent), Dutch (basic), Spanish (learning) 
+<br><br>
+
 ## **Experience**
 
 ### Technical
@@ -39,14 +47,6 @@ Development of solutions at the [ING HQ](https://www.ing.nl/particulier/english/
 <br>
 
 **Event Manager** @ [Piano Cafe Arnsberg](http://www.wogibts.com/kunden/deutschland/nordrhein-westfalen/hochsauerlandkreis/arnsberg/piano_cafe_cocktails_portugiesische_spezialitaeten/index.php?id=3748) _(2013 - 2014)_ 
-<br><br>
-
-## **Skills**
-
-**Programming**: Python, Django, R, Ansible, Hive, SQL, HTML, Kafka, Java, oTree, Markdown, LaTeX <br><br>
-**Tooling**: Azure, Databricks, Hadoop, Linux (Debian), Airflow, SonarQube, Fortify, Ambari, Zeppelin, Git, GitHub, Heroku Postgres, Docker, Kafka, SPSS, STATA <br><br>
-**Certificates**: Azure Fundamentals (AZ-900), Azure Developing Solutions (AZ-204), Information Technology Infrastructure Library (ITIL 4) <br><br>
-**Languages**: German(native), English (fluent), Dutch (basic), Spanish (learning) 
 <br><br>
 
 ## **Education**
