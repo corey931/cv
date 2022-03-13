@@ -3,7 +3,7 @@
 _IT engineer and audio enthusiast coming from research_ <br>
 
 [Email](mailto:crownless_empire@icloud.com) / [Mobile](tel:0031623724973) / [LinkedIn](https://www.linkedin.com/in/sebastians-url/) / [Azure DevOps](https://dev.azure.com/sebastian-simon/) 
-<br>
+<br><br><br>
 
 ## **Skills**
 
@@ -15,7 +15,7 @@ _IT engineer and audio enthusiast coming from research_ <br>
 
 ## **Experience**
 
-### Technical
+### **Technical**
 
 _For compliance reasons descriptions for FinTech positions contain little to no details._
 
@@ -29,7 +29,7 @@ Development of solutions at the [ING HQ](https://www.ing.nl/particulier/english/
 - Automating manual processes for financial reports
 <br><br>
     
-### Research-Related
+### **Research-Related**
 
 **Research Intern** @ [Netherlands Interdisciplinary Demographic Institute (NiDi)](https://www.knaw.nl/en/institutes/nidi) _(2018 - 2019)_ <br>
 - Harmonizing large datasets, visualizing (longitudinal) data
@@ -60,7 +60,7 @@ Development of solutions at the [ING HQ](https://www.ing.nl/particulier/english/
 Transcribing videos for triadic data as part of the Leadership in Innovation Networks (LINN) project
 <br><br>
 
-### Other
+### **Other**
 
 **Audio Production and Media Design Intern** @ [Audiofloor Studio](https://audiofloor.de) _(2014)_ <br>
 - Composing and recording a jingle for a product
@@ -70,7 +70,7 @@ Transcribing videos for triadic data as part of the Leadership in Innovation Net
 **Event Manager** @ [Piano Cafe Arnsberg](http://www.wogibts.com/kunden/deutschland/nordrhein-westfalen/hochsauerlandkreis/arnsberg/piano_cafe_cocktails_portugiesische_spezialitaeten/index.php?id=3748) _(2013 - 2014)_<br>
 - Organizign events and live acts
 - Promoting events through and maintaining the media channels 
-<br><br>
+<br><br><br>
 
 ## **Education**
 
