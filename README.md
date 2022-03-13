@@ -1,6 +1,6 @@
 ## **Sebastian Simon**
 
-_IT engineer_ <br>
+_IT engineer and audio enthusiast_ <br>
 
 [Email](mailto:crownless_empire@icloud.com) / [Mobile](tel:0031623724973) / [LinkedIn](https://www.linkedin.com/in/sebastians-url/) / [Azure DevOps](https://dev.azure.com/sebastian-simon/) 
 <br>
@@ -8,7 +8,7 @@ _IT engineer_ <br>
 ## **Skills**
 
 **Programming**: Python, Django, R, Ansible, Hive, SQL, HTML, Kafka, Java, oTree, Markdown, LaTeX <br><br>
-**Tooling**: Azure, Databricks, Hadoop, Linux (Debian), Airflow, SonarQube, Fortify, Ambari, Zeppelin, Git, GitHub, Heroku Postgres, Docker, Kafka, SPSS, STATA <br><br>
+**Tooling**: Azure, Databricks, Hadoop, Linux (Debian), Airflow, SonarQube, Fortify, Ambari, Zeppelin, Git, GitHub, Heroku Postgres, Docker, Kafka, SPSS, STATA, Cubase <br><br>
 **Certificates**: Azure Fundamentals (AZ-900), Azure Developing Solutions (AZ-204), Information Technology Infrastructure Library (ITIL 4) <br><br>
 **Languages**: German(native), English (fluent), Dutch (basic), Spanish (learning) 
 <br><br>
