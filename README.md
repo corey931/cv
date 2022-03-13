@@ -7,7 +7,7 @@ _IT engineer_ <br>
 
 ## **Experience**
 
-## Technical
+### Technical
 
 **IT Engineer** @ [ABN Amro](https://www.abnamro.nl/en/personal/index.html) _(Sep 2021 - present)_
 <br>
@@ -16,7 +16,7 @@ _IT engineer_ <br>
 Development of solutions at the [ING HQ](https://www.ing.nl/particulier/english/index.html) and [ABN Amro HQ](https://www.abnamro.nl/en/personal/index.html)
 <br><br>
     
-## Research-Related
+### Research-Related
 
 **Research Intern** @ [Netherlands Interdisciplinary Demographic Institute (NiDi)](https://www.knaw.nl/en/institutes/nidi) _(2018 - 2019)_ 
 <br>
@@ -33,7 +33,7 @@ Development of solutions at the [ING HQ](https://www.ing.nl/particulier/english/
 **Student Research Assistant** @ [University of Groningen](https://www.rug.nl) _(2017)_ 
 <br><br>
 
-## Other
+### Other
 
 **Audio Production and Media Design Intern** @ [Audiofloor Studio](https://audiofloor.de) _(2014)_ 
 <br>
