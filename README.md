@@ -11,7 +11,7 @@ _IT engineer and audio enthusiast coming from research_ <br>
 **Tooling**: Azure Portal and DevOps, Databricks, Hadoop, Linux (Debian), Airflow, SonarQube, Fortify, Ambari, Zeppelin, Git, GitHub, Heroku Postgres, Docker, Kafka, SPSS, STATA, Cubase <br><br>
 **Certificates**: Azure Fundamentals (AZ-900), Azure Developing Solutions (AZ-204), Information Technology Infrastructure Library Foundations (ITIL 4) <br><br>
 **Languages**: German(native), English (fluent), Dutch (basic), Spanish (learning) 
-<br><br>
+<br><br><br>
 
 ## **Experience**
 
