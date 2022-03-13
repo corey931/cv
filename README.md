@@ -17,6 +17,8 @@ _IT engineer and audio enthusiast coming from research_ <br>
 
 ### Technical
 
+_For compliance reasons descriptions for FinTech positions contain little to no details._
+
 **IT Engineer** @ [ABN Amro](https://www.abnamro.nl/en/personal/index.html) _(Sep 2021 - present)_
 <br>
 
