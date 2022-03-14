@@ -1,6 +1,6 @@
 ## **Sebastian Simon**
 
-_IT engineer and audio enthusiast coming from research_ <br>
+_IT engineer and audio enthusiast coming from research._ <br>
 
 [Email](mailto:crownless_empire@icloud.com) / [Mobile](tel:0031623724973) / [LinkedIn](https://www.linkedin.com/in/sebastians-url/) / [Azure DevOps](https://dev.azure.com/sebastian-simon/) 
 <br><br><br>
