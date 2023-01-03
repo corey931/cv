@@ -10,7 +10,7 @@ _IT engineer and audio enthusiast coming from research._ <br>
 **Programming**: Python, Django, R, Ansible, Hive, SQL, HTML, Kafka, Java, oTree, Markdown, LaTeX <br><br>
 **Tooling**: Azure Portal and DevOps, Databricks, Hadoop, Linux (Debian), Airflow, SonarQube, Fortify, Ambari, Zeppelin, Git, GitHub, Heroku Postgres, Docker, Kafka, SPSS, STATA, Cubase <br><br>
 **Certificates**: Azure Fundamentals (AZ-900), Azure Developing Solutions (AZ-204), Information Technology Infrastructure Library Foundations (ITIL 4) <br><br>
-**Languages**: German(native), English (fluent), Dutch (basic), Spanish (learning) 
+**Languages**: German (native), English (fluent), Dutch (basic), Spanish (learning) 
 <br><br><br>
 
 ## **Experience**
@@ -73,9 +73,6 @@ Transcribing videos for triadic data as part of the Leadership in Innovation Net
 <br><br><br>
 
 ## **Education**
-
-**Data Expert Traineeship** focused on (Non) FinTech<br>
-[Mploy Associates](https://www.mployassociates.com) - Utrecht, The Netherlands _(Fall 2017 - Summer 2019)_ <br>
 
 **Master of Science** in Social and Economic Psychology (research) <br>
 [Leiden University](https://www.universiteitleiden.nl/en/) - Leiden, The Netherlands _(Fall 2017 - Fall 2021)_ <br>
