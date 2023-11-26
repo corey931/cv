@@ -30,52 +30,52 @@ _For compliance reasons, descriptions for FinTech positions contain little to no
 
 **Data Expert** @ [Mploy Associates](https://www.mployassociates.com) _(Sep 2019 - Jun 2021)_ <br>
 Development of solutions at the [ING HQ](https://www.ing.nl/particulier/english/index.html) and [ABN Amro HQ](https://www.abnamro.nl/en/personal/index.html)<br>
-- Migrating the code base and applications to a cloud platform
-- Developing microservices for faster processing of business rules
-- Automating manual processes for financial reports
+- Migrate the code base and applications to a cloud platform
+- Develop microservices for faster processing of business rules
+- Automate manual processes for financial reports
 <br><br>
     
 ### **Research-Related**
 
 **Research Intern** @ [Netherlands Interdisciplinary Demographic Institute (NiDi)](https://www.knaw.nl/en/institutes/nidi) _(2018 - 2019)_ <br>
-- Harmonizing large datasets, visualizing (longitudinal) data
-- Reviewing and writing reports
-- Organizing a carpenter's workshop
-- Visiting (international) conferences
+- Harmonize large datasets and visualize (longitudinal) data
+- Review and write reports
+- Organize a carpenter's workshop
+- Visit (international) conferences
 <br>
 
 **Conference Assistant** @ [European Society for Cognitive and Affective Neuroscience (ESCAN)](https://escaneurosci.eu) _(2018)_
 <br>
 
 **Research Apprenticeship** @ [Leiden University](https://www.universiteitleiden.nl/en/) and [Free University of Amsterdam](https://vu.nl/en) _(2018)_ <br>
-- Designing a study
-- Creating the stimulus material
-- Collecting data for two studies using a movement board
-- Analyzing physiological data
+- Design a study
+- Create the stimulus material
+- Collect data for two studies using a movement board
+- Analyze physiological data
 <br>
 
 **Graduate Research Assistant** @ [Leiden University](https://www.universiteitleiden.nl/en/) _(2017 - 2018)_ <br>
-- Restructuring, analyzing, and documenting physiological data
-- Writing protocols for physiological data anlysis
-- Teaching groups physiological data analysis
-- Programming experiments
-- Supervising experiments
+- Restructure, analyze, and document physiological data
+- Write protocols for physiological data analysis
+- Teach groups physiological data analysis
+- Program experiments
+- Supervise experiments
 <br>
 
 **Student Research Assistant** @ [University of Groningen](https://www.rug.nl) _(2017)_ 
-Transcribing videos for triadic data as part of the Leadership in Innovation Networks (LINN) project
+Transcribe videos for triadic data as part of the Leadership in Innovation Networks (LINN) project
 <br><br>
 
 ### **Other**
 
 **Audio Production and Media Design Intern** @ [Audiofloor Studio](https://audiofloor.de) _(2014)_ <br>
-- Composing and recording a jingle for a product
-- Helping to develop the accompanying video for the product
+- Compose and record a jingle for a product
+- Help to develop the accompanying video for the product
 <br>
 
 **Event Manager** @ [Piano Cafe Arnsberg](http://www.wogibts.com/kunden/deutschland/nordrhein-westfalen/hochsauerlandkreis/arnsberg/piano_cafe_cocktails_portugiesische_spezialitaeten/index.php?id=3748) _(2013 - 2014)_<br>
-- Organizign events and live acts
-- Promoting events through and maintaining the media channels 
+- Organize events and live acts
+- Promote events by and maintaining the media channels 
 <br><br><br>
 
 ## **Education**
