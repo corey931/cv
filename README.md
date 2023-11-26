@@ -19,7 +19,13 @@ _IT engineer and audio enthusiast coming from research._ <br>
 
 _For compliance reasons descriptions for FinTech positions contain little to no details._
 
-**IT Engineer** @ [ABN Amro](https://www.abnamro.nl/en/personal/index.html) _(Jun 2020 - present)_
+**Chapter Lead** @ [ABN Amro](https://www.abnamro.nl/en/personal/index.html) _(Nov 2023 - present)_
+<br>
+
+**Platform Engineer** @ [ABN Amro](https://www.abnamro.nl/en/personal/index.html) _(Feb 2023 - Oct 2023)_
+<br>
+
+**Data Engineer** @ [ABN Amro](https://www.abnamro.nl/en/personal/index.html) _(Jun 2020 - Feb 2023)_
 <br>
 
 **Data Expert** @ [Mploy Associates](https://www.mployassociates.com) _(Sep 2019 - Jun 2021)_ <br>
