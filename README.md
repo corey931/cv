@@ -29,7 +29,7 @@ _For compliance reasons, descriptions for FinTech positions contain little to no
 <br>
 
 **Data Expert** @ [Mploy Associates](https://www.mployassociates.com) _(Sep 2019 - Jun 2021)_ <br>
-Development of solutions at the [ING HQ](https://www.ing.nl/particulier/english/index.html) and [ABN Amro HQ](https://www.abnamro.nl/en/personal/index.html)<br>
+Develop IT solutions at the [ING](https://www.ing.nl/particulier/english/index.html) and [ABN Amro](https://www.abnamro.nl/en/personal/index.html) headquarters:<br>
 - Migrate the code base and applications to a cloud platform
 - Develop microservices for faster processing of business rules
 - Automate manual processes for financial reports
