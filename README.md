@@ -17,7 +17,7 @@ _IT engineer and audio enthusiast coming from research._ <br>
 
 ### **Technical**
 
-_For compliance reasons descriptions for FinTech positions contain little to no details._
+_For compliance reasons, descriptions for FinTech positions contain little to no details._
 
 **Chapter Lead** @ [ABN Amro](https://www.abnamro.nl/en/personal/index.html) _(Nov 2023 - present)_
 <br>
