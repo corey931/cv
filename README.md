@@ -1,6 +1,6 @@
 ## **Sebastian Simon**
 
-_IT Chapter Lead and audio enthusiast coming from research._ <br>
+_IT chapter lead and audio enthusiast coming from research._ <br>
 
 [LinkedIn](https://www.linkedin.com/in/sebastians-url/) / [Azure DevOps](https://dev.azure.com/sebastian-simon/) 
 <br><br><br>
