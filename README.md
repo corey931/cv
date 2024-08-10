@@ -1,14 +1,14 @@
 ## **Sebastian Simon**
 
-_IT engineer and audio enthusiast coming from research._ <br>
+_IT Chapter Lead and audio enthusiast coming from research._ <br>
 
 [LinkedIn](https://www.linkedin.com/in/sebastians-url/) / [Azure DevOps](https://dev.azure.com/sebastian-simon/) 
 <br><br><br>
 
 ## **Skills**
 
-**Programming**: Python, Django, R, Ansible, Hive, SQL, HTML, Kafka, Java, oTree, Markdown, LaTeX <br><br>
-**Tooling**: Azure Portal and DevOps, Databricks, Hadoop, Linux (Debian), Airflow, SonarQube, Fortify, Ambari, Zeppelin, Git, GitHub, Heroku Postgres, Docker, Kafka, SPSS, STATA, Cubase <br><br>
+**Programming**: Python, Spark, R, Azure DevOps pipelines, Ansible, Hive, SQL, HTML, Java, oTree, Markdown, LaTeX, Django <br><br>
+**Tooling**: Azure services (Key Vault, Storage Accounts, Data Factory), Databricks, Hadoop, Linux (Debian), Airflow, SonarQube, Fortify, Zeppelin, Git, Heroku Postgres, Docker, Kafka, SPSS, STATA, Cubase <br><br>
 **Certificates**: Azure Fundamentals (AZ-900), Azure Developing Solutions (AZ-204), Certified Associate in Python Programming (PCAP), Information Technology Infrastructure Library Foundations (ITIL 4) <br><br>
 **Languages**: German (native), English (fluent), Dutch (basic), Spanish (learning) 
 <br><br><br>
@@ -19,7 +19,7 @@ _IT engineer and audio enthusiast coming from research._ <br>
 
 _For compliance reasons, descriptions for FinTech positions contain little to no details._
 
-**Chapter Lead** @ [ABN Amro](https://www.abnamro.nl/en/personal/index.html) _(Nov 2023 - present)_
+**IT Chapter Lead** @ [ABN Amro](https://www.abnamro.nl/en/personal/index.html) _(Nov 2023 - present)_
 <br>
 
 **Platform Engineer** @ [ABN Amro](https://www.abnamro.nl/en/personal/index.html) _(Feb 2023 - Oct 2023)_
